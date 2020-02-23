@@ -46,3 +46,12 @@
     border-top:none;
     background-color: #fff;
 }
+#contract{
+    height: 350px;
+}
+#contract h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
